@@ -20,26 +20,26 @@
 
 ## Поучаствовать в переводе
 
-Вы можете помочь нам с переводом, даже если не разбираетесь в моддинге или в работе с Github. Как это сделать, вы можете узнать, заглянув в файл [**CONTRIBUTING.md**](/CONTRIBUTING.md) либо зайдя на наш Discord сервер: https://discord.com/invite/BYQaukBJzu
+Вы можете помочь нам с переводом, даже если не разбираетесь в моддинге или в работе с Github. Как это сделать, вы можете узнать из файла [**CONTRIBUTING.md**](/CONTRIBUTING.md) либо заглянув на наш Discord сервер: https://discord.com/invite/BYQaukBJzu
 
 
 ## Credits
 
 
-### Автор кампании SCMR:
+• Автор кампании SCMR:
 Mass Recall Team (Jones, Telenil, Jimm, Gradius, Ultraling, Kostyarik, Re1deR, herdal8, christdaugherty, OmegaWeaponX85, MavercK, Superfield и другие).
-### Автор модификации RSMR:
+• Автор модификации RSMR:
 GiantGrantGames:
    + https://www.youtube.com/giantgrantgames
    + Discord сервер для скачивания этой и других модификаций автора: https://discord.com/invite/UCDyZyr6gg
-### Перевод кампании и мода:
-• В части, совпадающей с Mass Recall:
-   + Озвучка: официальная русская локализация из StarCraft Remastered
-   + Субтитры: от проекта BlizzGame и официальная русская локализация из SC Remastered
-   + Перевод части интерфейса взят из официальной инструкции игры Starcraft I
-   + Остальной перевод Mass Recall: Re1deR, runman, bobchik, Oleg Pluton, Vlad302002, Manager
-• В части, специфичной для Real Scale:
-   + Команда проекта sc\_mr\_rus_locale (мы): https://discord.com/invite/UMJ34KCv
+• Перевод кампании и мода:
+   • В части, совпадающей с Mass Recall:
+      + Озвучка: официальная русская локализация из StarCraft Remastered
+      + Субтитры: от проекта BlizzGame и официальная русская локализация из SC Remastered
+      + Перевод части интерфейса взят из официальной инструкции игры Starcraft I
+      + Остальной перевод Mass Recall: Re1deR, runman, bobchik, Oleg Pluton, Vlad302002, Manager
+   • В части, специфичной для Real Scale:
+      + Команда проекта sc\_mr\_rus_locale (мы): https://discord.com/invite/UMJ34KCv
 
 
 ## Лицензия

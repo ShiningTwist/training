@@ -23,7 +23,7 @@
 Вы можете помочь нам с переводом, даже если не разбираетесь в моддинге или в работе с Github. Как это сделать, вы можете узнать, заглянув в файл [**CONTRIBUTING.md**](/CONTRIBUTING.md) либо зайдя на наш Discord сервер: https://discord.com/invite/BYQaukBJzu
 
 
-##Credits
+## Credits
 
 
 ### Автор кампании SCMR:

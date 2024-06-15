@@ -1,4 +1,5 @@
 Пожалуйста, не забудьте потом прочитать [**CONTRIBUTING.md**](/CONTRIBUTING.md)
+Также у репозитория есть [проект на Github Projects](https://github.com/users/ShiningTwist/projects/5)
 
 # rs\_mr\_rus_locale
 Русская локализация для Real Scale Mass Recall
@@ -6,7 +7,7 @@
 
 ## Описание проекта
 
-Этот проект посвящен переводу на русский язык мода Real Scale Mass Recall для игры Starcraft 2
+Этот репозиторий посвящен переводу на русский язык мода Real Scale Mass Recall для игры Starcraft 2
 
 
 ## Требования
@@ -42,7 +43,7 @@ GiantGrantGames:
       * Остальной перевод Mass Recall: Re1deR, runman, bobchik, Oleg Pluton, Vlad302002, Manager
    + В части, специфичной для Real Scale:
       * ShiningTwist aka Monhaw
-      * Команда проекта sc\_mr\_rus_locale (список будет пополняться)
+      * Команда перевода sc\_mr\_rus_locale (список будет пополняться)
     
 
 ## Контакты
@@ -51,6 +52,6 @@ Discord личка: https://discord.com/invite/W9f8YbsJ
 
 ## Лицензия
 
-Этот проект существует под лицензией GNU General Public License v3.0 - см. файл [LICENSE](LICENSE) для подробностей.
+Этот репозиторий со всем содержимым находится под лицензией GNU General Public License v3.0 - см. файл [LICENSE](LICENSE) для подробностей.
 
 

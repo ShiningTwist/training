@@ -39,8 +39,13 @@ GiantGrantGames:
       * Перевод части интерфейса: взят из официальной инструкции игры Starcraft I
       * Остальной перевод Mass Recall: Re1deR, runman, bobchik, Oleg Pluton, Vlad302002, Manager
    + В части, специфичной для Real Scale:
-      * Команда проекта sc\_mr\_rus_locale (мы) https://discord.com/invite/UMJ34KCv
+      * Команда проекта sc\_mr\_rus_locale
+    
 
+## Контакты
+Профиль на github: https://github.com/ShiningTwist              
+Discord сервер: https://discord.com/invite/UMJ34KCv        
+Email: <fen.steel@mail.ru>
 
 ## Лицензия
 

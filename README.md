@@ -1,4 +1,4 @@
-Пожалуйста, не забудьте потом прочитать файлы [**CONTRIBUTING.md**](/CONTRIBUTING.md)
+Пожалуйста, не забудьте потом прочитать [**CONTRIBUTING.md**](/CONTRIBUTING.md)
 
 # rs\_mr\_rus_locale
 Русская локализация для Real Scale Mass Recall

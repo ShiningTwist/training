@@ -20,7 +20,7 @@
 
 ## Принять участие в переводе
 
-Вы можете помочь нам с переводом, даже если не разбираетесь в моддинге или в работе с Github. Как это сделать, вы можете узнать из файла [**CONTRIBUTING.md**](/CONTRIBUTING.md) либо заглянув на наш Discord сервер: https://discord.com/invite/BYQaukBJzu
+Вы можете помочь нам с переводом, даже если не разбираетесь в моддинге или в работе с Github. Как это сделать, вы можете узнать из файла [**CONTRIBUTING.md**](/CONTRIBUTING.md) либо заглянув на наш Discord сервер
 
 
 ## Credits
@@ -39,13 +39,12 @@ GiantGrantGames:
       * Перевод части интерфейса: взят из официальной инструкции игры Starcraft I
       * Остальной перевод Mass Recall: Re1deR, runman, bobchik, Oleg Pluton, Vlad302002, Manager
    + В части, специфичной для Real Scale:
-      * Команда проекта sc\_mr\_rus_locale
+      * Команда проекта sc\_mr\_rus_locale (вы сейчас находитесь на его странице)
     
 
 ## Контакты
 Профиль на github: https://github.com/ShiningTwist              
-Discord сервер: https://discord.com/invite/UMJ34KCv        
-Email: <fen.steel@mail.ru>
+Discord личка: https://discord.com/invite/W9f8YbsJ 
 
 ## Лицензия
 

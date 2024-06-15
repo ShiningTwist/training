@@ -40,7 +40,7 @@ GiantGrantGames:
       * Остальной перевод Mass Recall: Re1deR, runman, bobchik, Oleg Pluton, Vlad302002, Manager
    + В части, специфичной для Real Scale:
       * Команда проекта sc\_mr\_rus_locale (мы) https://discord.com/invite/UMJ34KCv
-
+   ДООООООООООООЛЛЛЛЛЛЛЛ!!!!!!!!!!!
 
 ## Лицензия
 

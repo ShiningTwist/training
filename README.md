@@ -1,3 +1,5 @@
+Пожалуйста, не забудьте прочитать файл [**CONTRIBUTING.md**](/CONTRIBUTING.md)
+
 # rs\_mr\_rus_locale
 Русская локализация для Real Scale Mass Recall
 
@@ -33,7 +35,7 @@ GiantGrantGames:
     - https://www.youtube.com/giantgrantgames
     - Discord сервер для скачивания этой и других модификаций автора: https://discord.com/invite/UCDyZyr6gg
 * Перевод кампании и мода:
-  + В части, совпадающей с Mass Recall:
+  + В части, совпадающей с Mass Recall, использованы материалы команды SC2 Russian Preview: https://sc2ruspreview.blogspot.com/p/mass-recall.html:
       * Озвучка: официальная русская локализация из StarCraft Remastered
       * Субтитры: от проекта BlizzGame и официальная русская локализация из SC Remastered
       * Перевод части интерфейса: взят из официальной инструкции игры Starcraft I

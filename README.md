@@ -1,6 +1,7 @@
 # rs\_mr\_rus_locale
 Русская локализация для Real Scale Mass Recall
 
+блаблабла
 
 ## Описание проекта
 

@@ -1,4 +1,4 @@
-Пожалуйста, не забудьте потом прочитать [**CONTRIBUTING.md**](/CONTRIBUTING.md)
+Пожалуйста, не забудьте потом прочитать [**CONTRIBUTING.md**](/CONTRIBUTING.md);        
 Также у репозитория есть [проект на Github Projects](https://github.com/users/ShiningTwist/projects/5)
 
 # rs\_mr\_rus_locale

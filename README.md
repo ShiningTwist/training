@@ -41,7 +41,8 @@ GiantGrantGames:
       * Перевод части интерфейса: взят из официальной инструкции игры Starcraft I
       * Остальной перевод Mass Recall: Re1deR, runman, bobchik, Oleg Pluton, Vlad302002, Manager
    + В части, специфичной для Real Scale:
-      * Команда проекта sc\_mr\_rus_locale (вы сейчас находитесь на его странице)
+      * ShiningTwist aka Monhaw
+      * Команда проекта sc\_mr\_rus_locale (список будет пополняться)
     
 
 ## Контакты

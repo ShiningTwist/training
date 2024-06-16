@@ -1,5 +1,5 @@
 Пожалуйста, не забудьте потом прочитать [**CONTRIBUTING.md**](/CONTRIBUTING.md);        
-Также у репозитория есть [Github Projects](https://github.com/users/ShiningTwist/projects/5)
+Также у репозитория есть [Github Project](https://github.com/users/ShiningTwist/projects/5)
 
 # rs\_mr\_rus_locale
 Русская локализация для Real Scale Mass Recall
@@ -23,7 +23,7 @@
 
 ## Принять участие в переводе
 
-Вы можете помочь нам с переводом, даже если не разбираетесь в моддинге или в работе с Github. Для того, чтобы начать помогать, загляните в [**CONTRIBUTING.md**](/CONTRIBUTING.md) либо заглянув на наш Discord сервер
+Вы можете помочь нам с переводом, даже если не разбираетесь в моддинге или в работе с Github. Для того, чтобы начать помогать, загляните в [**CONTRIBUTING.md**](/CONTRIBUTING.md) а потом на наш Discord сервер
 
 
 ## Credits

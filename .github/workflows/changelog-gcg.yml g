@@ -1,36 +1,32 @@
-name: Generate gcg Сhangelog 
+name: Generate gcg Changelog 
 
 on:
   push:
     branches:
-      - main  # ПРОВЕРИТЬ, ЧТО ЭТО ТА ВЕТКА, ДЛЯ КОТОРОЙ ХОТИМ НАСТРОИТЬ github_changelog_generator
+      - main  # Замените на имя вашей основной ветки, если оно отличается
 
 jobs:
   generate-changelog:
-    runs-on: ubuntu-latest  
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout code  
-        uses: actions/checkout@v4   
-        # ПРОВЕРИТЬ, ЧТО @v4 НА ДАННЫЙ МОМЕНТ КРАЙНЯЯ ВЕРСИЯ  
+      - name: Checkout code
+        uses: actions/checkout@v4
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.3  # Используйте версию Ruby, которая вам подходит, УБЕДИТЬСЯ,ЧТО ЭТО КРАЙНЯЯ ВЕРСИЯ
+          ruby-version: 3.3  # Используйте версию Ruby, которая вам подходит
 
       - name: Install Dependencies
         run: gem install github_changelog_generator
 
       - name: Generate Changelog
-        run: github_changelog_generator -u ShiningTwist -p training --token ${{ secrets.MYTOKEN }} --output changelog_gcg.md  
-        # УКАЗАТЬ ЖЕЛАЕМОЕ ИМЯ ДЛЯ ФАЙЛА ЧЕЙНДЖЛОГА, В КОТОРЫЙ НАПРАВИТСЯ ВЫВОД --output
-        # И ТОКЕН НЕ ЗАБЫТЬ ВСТАВИТЬ
+        run: github_changelog_generator -u ShiningTwist -p training --token ${{ secrets.MYTOKEN }} --output changelog_gcg.md
 
       - name: Commit and push if it changed
         run: |
           git diff
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git commit -am "chore(changelog): generated gcg-changelog" || exit 0  
-     # НАПИСАТЬ ЖЕЛАЕМОЕ НАЗВАНИЕ ДЛЯ КОММИТА С КОТОРЫМ ОБНОВИТСЯ ЧЕНДЖЛОГ  
+          git commit -am "Generated changelog_gcg.md" || exit 0
           git push

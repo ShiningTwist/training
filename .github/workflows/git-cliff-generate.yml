@@ -1,54 +1,32 @@
-# Название workflow, описывает его цель
-name: Generate git-cliff changelog  
+name: Generate gcg Changelog 
 
-
-# Указывает событие, при котором будет запускаться workflow
 on:
-  # Событие push в репозиторий  
   push:
-    # Указывает, что workflow будет запускаться только при пушах в ветку main  
     branches:
-      - main  
-# ПРОВЕРИТЬ, ЧТО ЭТО ТА ВЕТКА, ДЛЯ КОТОРОЙ ХОТИМ НАСТРОИТЬ git-cliff  
+      - main  # Замените на имя вашей основной ветки, если оно отличается
 
-
-# Определяет задачи, которые будут выполнены в рамках workflow
 jobs:
-  # Имя задачи, можно назвать по-другому, например, "update-changelog"  
-  build:
-    # Запуск задачи на последней версии Ubuntu  
-    runs-on: ubuntu-latest  
-
-
-    # Шаги, которые необходимо выполнить в рамках задачи
+  generate-changelog:
+    runs-on: ubuntu-latest
     steps:
-      # Использование действия checkout для клонирования репозитория  
-    - uses: actions/checkout@v4  
-# ПРОВЕРИТЬ, ЧТО @v4 НА ДАННЫЙ МОМЕНТ КРАЙНЯЯ ВЕРСИЯ  
-      # Выкачивание всей истории коммитов, необходимо для корректной работы многих инструментов генерации changelog
-      with:
-        fetch-depth: 0  
-   
-    # Название шага
-    - name: Download and Install git-cliff
-      # Команды, которые будут выполнены в рамках шага
-      run: |  
-        curl -L "https://github.com/orhun/git-cliff/releases/download/v2.3.0/git-cliff-2.3.0-x86_64-unknown-linux-gnu.tar.gz" -o git-cliff.tar.gz  # Скачивание git-cliff
-        tar -xzf git-cliff.tar.gz  # Распаковка скачанного архива, ПРОВЕРИТЬ, ЧТО УКАЗАНА КРАЙНЯЯ 
-        mv git-cliff-2.3.0/git-cliff /usr/local/bin/  # Перемещение исполняемого файла git-cliff в директорию /usr/local/bin , ПРОВЕРИТЬ, ЧТО УКАЗАНА КРАЙНЯЯ ВЕРСИЯ GIT-CLIFF 
-    # Шаг для генерации файла CHANGELOG.md
-    - name: Generate Changelog
-      # Запуск git-cliff с указанием конфигурационного файла и выходного файла
-      run: git-cliff --config cliff.toml --output CHANGELOG-by-git-cliff.md  
-# УКАЗАТЬ ЖЕЛАЕМОЕ ИМЯ ДЛЯ ФАЙЛА ЧЕЙНДЖЛОГА, В КОТОРЫЙ НАПРАВИТСЯ ВЫВОД  
-     
-    # Шаг для коммита изменений
-    - name: Commit git-cliff Changelog
-      # Команды для выполнения  
-      run: |  
-        git config --global user.name 'github-actions'
-        git config --global user.email 'github-actions@github.com'
-        git add CHANGELOG-by-git-cliff.md       
-  #НАПИСАТЬ ТО ЖЕ ИМЯ ФАЙЛА, ЧТО ВЫБРАЛИ В СТРОКЕ номер 43
-        git commit -m "generate git-cliff-changelog" #НАПИСАТЬ ЖЕЛАЕМОЕ НАЗВАНИЕ ДЛЯ КОММИТА С КОТОРЫМ ОБНОВИТСЯ ЧЕНДЖЛОГ  
-        git push https://github.com/${{ github.repository }}.git HEAD:main  
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.3  # Используйте версию Ruby, которая вам подходит
+
+      - name: Install Dependencies
+        run: gem install github_changelog_generator
+
+      - name: Generate Changelog
+        run: github_changelog_generator -u ShiningTwist -p training --token ${{ secrets.MYTOKEN }} --output changelog_gcg.md
+
+      - name: Commit and push if it changed
+        run: |
+          git diff
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git commit -am "Generated changelog_gcg.md" || exit 0
+          git push

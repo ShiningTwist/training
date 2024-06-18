@@ -22,12 +22,14 @@ All notable changes to this project will be documented in this file.
 
 - Truing fix gitklifik
 - Jump many
+- *(guir)* Ifuy
 
 ### ⚙️ Miscellaneous Tasks
 
 - Update git-cliff-generate.yml
 - Delete gitcliff script
 - Настройка
+- *(changelog)* Generated git-cliff-changelog
 - *(changelog)* Generated git-cliff-changelog
 - *(changelog)* Generated git-cliff-changelog
 

@@ -10,6 +10,7 @@
 
 **Closed issues:**
 
+- feat: take final check of ALL [\#15](https://github.com/ShiningTwist/training/issues/15)
 - цув [\#14](https://github.com/ShiningTwist/training/issues/14)
 - asdv [\#13](https://github.com/ShiningTwist/training/issues/13)
 - feat: давайте сделаем красивое [\#12](https://github.com/ShiningTwist/training/issues/12)

@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file.
 - Uhir
 - Fwojne
 - Suffering gitklifik
+- Make bad move
 
 ### 🐛 Bug Fixes
 

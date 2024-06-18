@@ -23,6 +23,7 @@ All notable changes to this project will be documented in this file.
 - Truing fix gitklifik
 - Jump many
 - *(guir)* Ifuy
+- Update LICENSE
 
 ### ⚙️ Miscellaneous Tasks
 

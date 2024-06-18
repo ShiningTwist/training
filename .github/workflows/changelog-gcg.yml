@@ -15,7 +15,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.2  # Используйте версию Ruby, которая вам подходит
+          ruby-version: 3.3  # Используйте версию Ruby, которая вам подходит
 
       - name: Install Dependencies
         run: gem install github_changelog_generator
@@ -28,5 +28,5 @@ jobs:
           git diff
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git commit -am "Generated changelog" || exit 0
+          git commit -am "Generated changelog_gcg.md" || exit 0
           git push

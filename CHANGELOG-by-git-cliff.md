@@ -17,6 +17,7 @@ All notable changes to this project will be documented in this file.
 - Final countdoun closes #15
 - Do smthingest
 - Unicum
+- *(fd)* Update LICENSE
 
 ### 🐛 Bug Fixes
 

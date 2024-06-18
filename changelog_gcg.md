@@ -10,6 +10,7 @@
 
 **Closed issues:**
 
+- СДЕЛВЙТЕ ШТОНИБУТЬ!!!! [\#18](https://github.com/ShiningTwist/training/issues/18)
 - попрыгаем давай [\#17](https://github.com/ShiningTwist/training/issues/17)
 - feat: do smth [\#16](https://github.com/ShiningTwist/training/issues/16)
 - feat: take final check of ALL [\#15](https://github.com/ShiningTwist/training/issues/15)

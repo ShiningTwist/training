@@ -49,5 +49,5 @@ jobs:
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add CHANGELOG-by-git-cliff.md #НАПИСАТЬ ТО ЖЕ ИМЯ ФАЙЛА, ЧТО ВЫБРАЛИ В СТРОКЕ номер 43
-        git commit -m "Обновление CHANGELOG-by-git-cliff.md" #НАПИСАТЬ ЖЕЛАЕМОЕ НАЗВАНИЕ ДЛЯ КОММИТА С КОТОРЫМ ОБНОВИТСЯ ЧЕНДЖЛОГ  
+        git commit -m "chore(changelog): обновление с помощью git-cliff" #НАПИСАТЬ ЖЕЛАЕМОЕ НАЗВАНИЕ ДЛЯ КОММИТА С КОТОРЫМ ОБНОВИТСЯ ЧЕНДЖЛОГ  
         git push https://github.com/${{ github.repository }}.git HEAD:main  

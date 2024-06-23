@@ -10,6 +10,7 @@
 
 **Closed issues:**
 
+- впвыпку [\#19](https://github.com/ShiningTwist/training/issues/19)
 - СДЕЛВЙТЕ ШТОНИБУТЬ!!!! [\#18](https://github.com/ShiningTwist/training/issues/18)
 - попрыгаем давай [\#17](https://github.com/ShiningTwist/training/issues/17)
 - feat: do smth [\#16](https://github.com/ShiningTwist/training/issues/16)

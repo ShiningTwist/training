@@ -47,4 +47,4 @@ jobs:
         git config --global user.email 'github-actions@github.com'
         git add CHANGELOG-by-git-cliff.md
         git commit -m "Обновление CHANGELOG-by-git-cliff.md"
-        git push https://github.com/${{ github.repository }}.git HEAD:main  
+        git push https://github.com/${{ github.repository }}.git HEAD:kvatro-vetka  

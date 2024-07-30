@@ -21,11 +21,15 @@ jobs:
         run: gem install github_changelog_generator
 
       - name: Generate Changelog
-        run: github_changelog_generator -u ShiningTwist -p training --token ${{ secrets.TRAIN_FIFITOK }} --output changelog_gcg.md --issue-line-labels --issue-line-milestones 
+        run: github_changelog_generator -u ShiningTwist -p training --token ${{ secrets.TRAIN_FIFITOK }} --output changelog_gcg.md --config-file .github_changelog_generator --add-issue-labels --add-issue-milestones
+
       - name: Commit and push if it changed
         run: |
           git diff
           git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git commit -am "Generated changelog_gcg.md" || exit 0
+          git push
           git config --global user.name "GitHub Action"
           git commit -am "Generated changelog_gcg.md" || exit 0
           git push

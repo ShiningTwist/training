@@ -19,6 +19,7 @@ All notable changes to this project will be documented in this file.
 - Unicum
 - *(fd)* Update LICENSE
 - Апдейтнул лицху
+- Муччча
 
 ### 🐛 Bug Fixes
 

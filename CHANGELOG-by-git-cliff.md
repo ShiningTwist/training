@@ -18,6 +18,7 @@ All notable changes to this project will be documented in this file.
 - Do smthingest
 - Unicum
 - *(fd)* Update LICENSE
+- Втора черга
 
 ### 🐛 Bug Fixes
 

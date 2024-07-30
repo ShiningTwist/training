@@ -10,6 +10,7 @@
 
 **Closed issues:**
 
+- сегодня 9 [\#24](https://github.com/ShiningTwist/training/issues/24)
 - сегодня 8  [\#22](https://github.com/ShiningTwist/training/issues/22)
 - сегодня 5 [\#21](https://github.com/ShiningTwist/training/issues/21)
 - сегодняшний 2 [\#20](https://github.com/ShiningTwist/training/issues/20)
@@ -26,6 +27,7 @@
 
 **Merged pull requests:**
 
+- сливаем tri и майн [\#25](https://github.com/ShiningTwist/training/pull/25) ([ShiningTwist](https://github.com/ShiningTwist))
 - Sekond vetka и майн [\#23](https://github.com/ShiningTwist/training/pull/23) ([ShiningTwist](https://github.com/ShiningTwist))
 - Так, приличнее .gitignore ЧоткА черновик [\#1](https://github.com/ShiningTwist/training/pull/1) ([Pilot33303](https://github.com/Pilot33303))
 

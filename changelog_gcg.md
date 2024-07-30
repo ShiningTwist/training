@@ -10,6 +10,7 @@
 
 **Closed issues:**
 
+- сегодняшний 2 [\#20](https://github.com/ShiningTwist/training/issues/20)
 - впвыпку [\#19](https://github.com/ShiningTwist/training/issues/19)
 - СДЕЛВЙТЕ ШТОНИБУТЬ!!!! [\#18](https://github.com/ShiningTwist/training/issues/18)
 - попрыгаем давай [\#17](https://github.com/ShiningTwist/training/issues/17)

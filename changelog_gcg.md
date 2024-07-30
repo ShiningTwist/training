@@ -13,6 +13,7 @@
 
 **Closed issues:**
 
+- ывм [\#36](https://github.com/ShiningTwist/training/issues/36)
 - dfg [\#35](https://github.com/ShiningTwist/training/issues/35)
 - вып [\#34](https://github.com/ShiningTwist/training/issues/34)
 - сегодня 9 [\#24](https://github.com/ShiningTwist/training/issues/24)

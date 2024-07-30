@@ -6,6 +6,7 @@
 
 **Implemented enhancements:**
 
+- пыв [\#30](https://github.com/ShiningTwist/training/issues/30)
 - gdtshs [\#29](https://github.com/ShiningTwist/training/issues/29)
 - hgdg [\#27](https://github.com/ShiningTwist/training/issues/27)
 - feat: перевести 1-9 [\#6](https://github.com/ShiningTwist/training/issues/6)

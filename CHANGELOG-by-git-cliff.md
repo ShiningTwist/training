@@ -38,6 +38,7 @@ All notable changes to this project will be documented in this file.
 - *(changelog)* Generated git-cliff-changelog
 - Update git-cliff-generate.yml
 - Проверка работы
+- Проверка рраз
 
 ### Fd
 

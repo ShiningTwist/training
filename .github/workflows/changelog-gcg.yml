@@ -1,4 +1,4 @@
-name: Generate gcg Changelog 
+name: Generate gcg Changelog
 
 on:
   push:
@@ -21,7 +21,7 @@ jobs:
         run: gem install github_changelog_generator
 
       - name: Generate Changelog
-        run: github_changelog_generator -u ShiningTwist -p training --token ${{ secrets.TRAIN_FIFITOK }} --output changelog_gcg.md
+        run: github_changelog_generator -u ShiningTwist -p training --token ${{ secrets.TRAIN_FIFITOK }} --output changelog_gcg.md --issue-line-labels --issue-line-milestones
 
       - name: Commit and push if it changed
         run: |

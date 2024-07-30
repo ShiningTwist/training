@@ -1,0 +1,32 @@
+name: Generate gcg Changelog 
+
+on:
+  push:
+    branches:
+      - main  # Замените на имя вашей основной ветки, если оно отличается
+
+jobs:
+  generate-changelog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.3  # Используйте версию Ruby, которая вам подходит
+
+      - name: Install Dependencies
+        run: gem install github_changelog_generator
+
+      - name: Generate Changelog
+        run: github_changelog_generator -u ShiningTwist -p training --token ${{ secrets.TRAIN_FIFITOK }} --output changelog_gcg.md
+
+      - name: Commit and push if it changed
+        run: |
+          git diff
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git commit -am "Generated changelog_gcg.md" || exit 0
+          git push

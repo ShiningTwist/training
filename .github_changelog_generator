@@ -1,2 +1,1 @@
-add_issues_labels: true
-add_issues_milestones: true
+issue_line_labels: ALL

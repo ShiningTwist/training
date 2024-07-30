@@ -42,6 +42,10 @@ All notable changes to this project will be documented in this file.
 - Проверка работы
 - Update LICENSE
 
+### Faet
+
+- Работа в рамках прожекта
+
 ### Fd
 
 - Update LICENSE

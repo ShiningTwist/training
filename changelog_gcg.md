@@ -13,6 +13,7 @@
 
 **Closed issues:**
 
+- цавцыфу [\#38](https://github.com/ShiningTwist/training/issues/38)
 - ывм [\#36](https://github.com/ShiningTwist/training/issues/36)
 - dfg [\#35](https://github.com/ShiningTwist/training/issues/35)
 - вып [\#34](https://github.com/ShiningTwist/training/issues/34)
@@ -33,6 +34,7 @@
 
 **Merged pull requests:**
 
+- Update LICENSE [\#40](https://github.com/ShiningTwist/training/pull/40) ([ShiningTwist](https://github.com/ShiningTwist))
 - сливаем tri и майн [\#25](https://github.com/ShiningTwist/training/pull/25) ([ShiningTwist](https://github.com/ShiningTwist))
 - Sekond vetka и майн [\#23](https://github.com/ShiningTwist/training/pull/23) ([ShiningTwist](https://github.com/ShiningTwist))
 - Так, приличнее .gitignore ЧоткА черновик [\#1](https://github.com/ShiningTwist/training/pull/1) ([Pilot33303](https://github.com/Pilot33303))

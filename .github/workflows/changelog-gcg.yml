@@ -3,7 +3,7 @@ name: Generate gcg Changelog
 on:
   push:
     branches:
-      - main  # Замените на имя вашей основной ветки, если оно отличается
+      - penta-vetka  # Замените на имя вашей основной ветки, если оно отличается
 
 jobs:
   generate-changelog:

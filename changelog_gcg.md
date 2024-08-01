@@ -21,6 +21,7 @@
 - мммммммммм [\#48](https://github.com/ShiningTwist/training/issues/48)
 - два [\#47](https://github.com/ShiningTwist/training/issues/47)
 - раз [\#46](https://github.com/ShiningTwist/training/issues/46)
+- feat: ттыыри [\#45](https://github.com/ShiningTwist/training/issues/45)
 - РУУУУки мои руууки [\#42](https://github.com/ShiningTwist/training/issues/42)
 - sdv [\#41](https://github.com/ShiningTwist/training/issues/41)
 - цавцыфу [\#38](https://github.com/ShiningTwist/training/issues/38)

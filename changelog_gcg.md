@@ -13,6 +13,8 @@
 
 **Closed issues:**
 
+- РУУУУки мои руууки [\#42](https://github.com/ShiningTwist/training/issues/42)
+- sdv [\#41](https://github.com/ShiningTwist/training/issues/41)
 - цавцыфу [\#38](https://github.com/ShiningTwist/training/issues/38)
 - ывм [\#36](https://github.com/ShiningTwist/training/issues/36)
 - dfg [\#35](https://github.com/ShiningTwist/training/issues/35)

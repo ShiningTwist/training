@@ -17,6 +17,8 @@
 
 **Closed issues:**
 
+- ccccccccccccc [\#49](https://github.com/ShiningTwist/training/issues/49)
+- мммммммммм [\#48](https://github.com/ShiningTwist/training/issues/48)
 - два [\#47](https://github.com/ShiningTwist/training/issues/47)
 - раз [\#46](https://github.com/ShiningTwist/training/issues/46)
 - РУУУУки мои руууки [\#42](https://github.com/ShiningTwist/training/issues/42)

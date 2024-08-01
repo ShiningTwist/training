@@ -17,6 +17,8 @@
 
 **Closed issues:**
 
+- два [\#47](https://github.com/ShiningTwist/training/issues/47)
+- раз [\#46](https://github.com/ShiningTwist/training/issues/46)
 - РУУУУки мои руууки [\#42](https://github.com/ShiningTwist/training/issues/42)
 - sdv [\#41](https://github.com/ShiningTwist/training/issues/41)
 - цавцыфу [\#38](https://github.com/ShiningTwist/training/issues/38)

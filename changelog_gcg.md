@@ -11,6 +11,10 @@
 - hgdg [\#27](https://github.com/ShiningTwist/training/issues/27)
 - feat: перевести 1-9 [\#6](https://github.com/ShiningTwist/training/issues/6)
 
+**Fixed bugs:**
+
+- feat: ррраз [\#43](https://github.com/ShiningTwist/training/issues/43)
+
 **Closed issues:**
 
 - РУУУУки мои руууки [\#42](https://github.com/ShiningTwist/training/issues/42)

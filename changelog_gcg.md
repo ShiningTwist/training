@@ -11,8 +11,17 @@
 - hgdg [\#27](https://github.com/ShiningTwist/training/issues/27)
 - feat: перевести 1-9 [\#6](https://github.com/ShiningTwist/training/issues/6)
 
+**Fixed bugs:**
+
+- feat: ррраз [\#43](https://github.com/ShiningTwist/training/issues/43)
+
 **Closed issues:**
 
+- два [\#47](https://github.com/ShiningTwist/training/issues/47)
+- раз [\#46](https://github.com/ShiningTwist/training/issues/46)
+- РУУУУки мои руууки [\#42](https://github.com/ShiningTwist/training/issues/42)
+- sdv [\#41](https://github.com/ShiningTwist/training/issues/41)
+- цавцыфу [\#38](https://github.com/ShiningTwist/training/issues/38)
 - ывм [\#36](https://github.com/ShiningTwist/training/issues/36)
 - dfg [\#35](https://github.com/ShiningTwist/training/issues/35)
 - вып [\#34](https://github.com/ShiningTwist/training/issues/34)
@@ -33,6 +42,7 @@
 
 **Merged pull requests:**
 
+- Update LICENSE [\#40](https://github.com/ShiningTwist/training/pull/40) ([ShiningTwist](https://github.com/ShiningTwist))
 - сливаем tri и майн [\#25](https://github.com/ShiningTwist/training/pull/25) ([ShiningTwist](https://github.com/ShiningTwist))
 - Sekond vetka и майн [\#23](https://github.com/ShiningTwist/training/pull/23) ([ShiningTwist](https://github.com/ShiningTwist))
 - Так, приличнее .gitignore ЧоткА черновик [\#1](https://github.com/ShiningTwist/training/pull/1) ([Pilot33303](https://github.com/Pilot33303))

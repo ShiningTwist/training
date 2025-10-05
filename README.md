@@ -1,7 +1,26 @@
 # ТРЕНЕРОВАЧКА
 
 
+Моды  
+https://disk.yandex.ru/d/DMyJlVAQFPxFIQ   
+https://mega.nz/folder/vNUz0CJD#hEjM3SxQ0O-Lav_QeFbRsg   
+Установка:    
+   
+[]Распаковать архив с нужным модом.  
+[]Скопировать *.gro файл(ы) в ..\Serious Sam Fusion 2017 [SteamRip]\steamapps\common\Serious Sam Fusion 2017\Content\SeriousSam2017\  
+[]Запустить игру через Sam2017_Unrestricted.exe или Sam2017_Unrestricted_VR.exe.  
+[]Играть.  
+.  
+.  
+Некоторые моды несовместимы друг с другом, поэтому не устанавливайте одновременно большое их количество.  
+Как качать моды 
+Если нужного вам мода нет по ссылкам выше вы можете скачать его сами с помощью [WorkshopDL](https://github.com/VovoloGames/WorkshopDL). Для этого вставьте в поле Workshop Homepage - 564310, ссылку на мод в поле Workshop mod URL и нажмите Download.  
+Некоторые моды для работы требуют другие моды, они указаны справа в разделе "Необходимые продукты", вам нужно скачать их все иначе мод работать не будет. На раздел "Необходим доп. контент" не обращайте внимания, всё это есть в раздаче.  
 
+
+.  
+.  
+.  
 
 949940654_monsters_weapons.zip >> https://steamcommunity.com/sharedfiles/filedetails/?id=949940654  
 
@@ -57,6 +76,7 @@ Serious Duke 3D >> https://steamcommunity.com/workshop/filedetails/?id=143257001
 1399050310_vr_additional_weapon_selection_slots.zip >> https://steamcommunity.com/workshop/filedetails/?id=1399050310  
 
 50_440323_30_DLC_LegendOfTheBeast_rus.gro >> Русификатор для DLC Legend of the Beast  
+
 
 
 

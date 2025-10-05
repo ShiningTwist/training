@@ -20,9 +20,9 @@
 Русcкая озвучка от 1С из SS-SE Classic с ДЖИГУРДОЙ.zip >> https://steamcommunity.com/sharedfiles/filedetails/?id=898896717  
 
 1615706471_real_russian_serious_sam_voice_pack.zip >> https://steamcommunity.com/sharedfiles/filedetails/?id=1615706471  
-  
-  
-  
+.  
+.  
+.  
 << Majesty Of The Anubis >>  
 
 2609284544_majesty_of_the_anubis.zip >> https://steamcommunity.com/sharedfiles/filedetails/?id=2609284544  
@@ -30,9 +30,9 @@
 1697178887_weapon_engine.zip >> https://steamcommunity.com/sharedfiles/filedetails/?id=1697178887 
   
 2582290274_serious_sam_4 &_siberian_mayhem_weapons_pack.zip >> https://steamcommunity.com/sharedfiles/filedetails/?id=2582290274  
-    
-   
-  
+.    
+.   
+.  
 << Mephisto's Forest III >>  
   
 917665732_mephisto_s_forest_iii.zip >> https://steamcommunity.com/sharedfiles/filedetails/?id=917665732  
@@ -43,9 +43,9 @@
 
 Serious Duke 3D >> https://steamcommunity.com/workshop/filedetails/?id=1432570016  
   
-  
-  
-  
+.  
+.  
+.  
 << Realm of Despair >>  
 
 1158617428_realm_of_despair.zip >> https://steamcommunity.com/sharedfiles/filedetails/?id=1158617428  
@@ -57,6 +57,7 @@ Serious Duke 3D >> https://steamcommunity.com/workshop/filedetails/?id=143257001
 1399050310_vr_additional_weapon_selection_slots.zip >> https://steamcommunity.com/workshop/filedetails/?id=1399050310  
 
 50_440323_30_DLC_LegendOfTheBeast_rus.gro >> Русификатор для DLC Legend of the Beast  
+
 
 
 
